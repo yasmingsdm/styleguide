@@ -1,6 +1,7 @@
 # Style Guide
 
-In this project, I created a style guide/design system for your website.
+In this project, I created a style guide/design system for the Super Trunfo website.<br>
+
 This is a CodeAcademy project for the Front-end Engineer Career Path.
 
 I used HTML and CSS.
@@ -15,3 +16,4 @@ I used HTML and CSS.
 
 
 You can check the project ready [here](https://yasmingsdm.github.io/styleguide/)!
+You can check the Super Trunfo website [here](https://yasmingsdm.github.io/SuperTrunfo/)
